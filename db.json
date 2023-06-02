@@ -7,63 +7,278 @@
       "position": "Em",
       "full_name": "Nguyễn Viết Nam",
       "status": true,
-      "participate": false,
-      "wish": "",
-      "ceremony": true
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "relationship": false
     },
     {
-      "id": "30d335ee-29ef-45bc-a05e-79c3f7124196",
-      "name": "ky",
-      "name_vn": "Kỳ",
-      "position": "Em",
-      "full_name": "Võ Cao Kỳ",
+      "id": "3a41416e-b71f-488b-a45b-d84be028e4bc",
+      "name": "phuoc",
+      "name_vn": "Phước",
+      "position": "Bạn",
+      "full_name": "Nguyễn Văn Phước",
+      "relationship": false,
       "status": true,
       "participate": false,
-      "wish": "",
-      "ceremony": true
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
     },
     {
-      "id": "3942f312-23ad-4664-a42b-cf9c2d9c42f4",
+      "id": "34c5e19d-714f-4305-9f23-98f0c80f828f",
       "name": "nhut",
       "name_vn": "Nhựt",
       "position": "Anh",
       "full_name": "Nguyễn Minh Nhựt",
+      "relationship": true,
       "status": true,
       "participate": false,
-      "wish": "",
-      "paticipate_type": true,
-      "ceremony": true
+      "ceremony_id": "475d41f6-d325-4c31-823f-256780aad132",
+      "ceremony": "Mời Trước Tiệc",
+      "wish": ""
     },
     {
-      "id": "38575914-6415-42a0-afeb-a593fc292832",
+      "id": "829ddacd-9ce2-482c-b928-ec6c1f1fbb6d",
       "name": "tam",
       "name_vn": "Tâm",
       "position": "Anh",
       "full_name": "Phan Thanh Tâm",
+      "relationship": true,
       "status": true,
       "participate": false,
-      "ceremony": true,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "531a3c2a-bbbd-492b-9dda-c0a6814f8da3",
+      "name": "nhi",
+      "name_vn": "Nhi",
+      "position": "Bạn",
+      "full_name": "Hoàng Thị Phương Nhi",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "72ce9e53-6efe-4778-8c0d-9f710d3e6af5",
+      "name": "ky",
+      "name_vn": "Kỳ",
+      "position": "Em",
+      "full_name": "Võ Cao Kỳ",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "128cc7f6-a3f6-4654-b07d-2adda1183b03",
+      "name": "linh",
+      "name_vn": "Linh",
+      "position": "Em",
+      "full_name": "Lê Nhật Linh",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "c0d2be86-832c-4527-ba64-13dcbb3f8815",
+      "name": "nhan",
+      "name_vn": "Nhân",
+      "position": "Anh",
+      "full_name": "Nguyễn Hữu Lâm Nhân",
+      "relationship": true,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "9d114479-e362-475a-841f-ffaf11174c83",
+      "name": "giap",
+      "name_vn": "Giáp",
+      "position": "Em",
+      "full_name": "Hồ Văn Giáp",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "bb8a4625-5c27-46bf-a619-260d0a0bad84",
+      "name": "van",
+      "name_vn": "Vân",
+      "position": "Anh",
+      "full_name": "Đoãn Văn Vân",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
+      "id": "99ba64e5-3465-4f71-9a0a-85ad637c4a6f",
+      "name": "truong",
+      "name_vn": "Trường",
+      "position": "Em",
+      "full_name": "Phạm Như Nhật Trường",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
       "wish": ""
     }
   ],
   "address": [
     {
+      "id": "c629f029-40f3-4f27-b1a9-fd7e70e858b3",
       "title": "Lễ Vu Quy",
       "location": "Đà Nẵng",
-      "time_utc": "2023-06-17 17:00:00",
+      "time_utc": "2023-06-17 11:00:00",
       "time": "17:00 Thứ 7, Ngày 17 Tháng 6 Năm 2023",
       "description": "456 Nguyễn Tri Phương, Hòa Thuận Đông, Hải Châu, Đà Nẵng",
       "image": "https://i.ibb.co/NTyFxbh/address1.jpg",
       "map": "https://www.google.com/maps/dir//Trung+t%C3%A2m+H%E1%BB%99i+ngh%E1%BB%8B%26Ti%E1%BB%87c+c%C6%B0%E1%BB%9Bi+Minh+Ch%C3%A2u+Vi%E1%BB%87t,+456+Nguy%E1%BB%85n+Tri+Ph%C6%B0%C6%A1ng,+H%C3%B2a+Thu%E1%BA%ADn+%C4%90%C3%B4ng,+H%E1%BA%A3i+Ch%C3%A2u,+%C4%90%C3%A0+N%E1%BA%B5ng+550000,+Vi%E1%BB%87t+Nam/@16.0510026,108.2093229,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x314219b85cefa3f5:0xf3ebcf4b0fde40a8!2m2!1d108.2118978!2d16.0509975!3e0?hl=vi-VN"
     },
     {
+      "id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
       "title": "Lễ Thành Hôn",
       "location": "Quảng Nam",
       "time_utc": "2023-06-25 11:00:00",
       "time": "11:00 Chủ Nhật, Ngày 25 Tháng 6 Năm 2023",
       "description": "299 Điện Biên Phủ, Duy Phước, Duy Xuyên, Quảng Nam",
       "image": "https://i.ibb.co/2hWBVHR/address2.png",
-      "map": "https://www.google.com/maps/dir//229+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7,+Duy+Ph%C6%B0%E1%BB%9Bc,+Duy+Xuy%C3%AAn,+Qu%E1%BA%A3ng+Nam,+Vi%E1%BB%87t+Nam/@15.8391866,108.2819275,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x31420f29eec4928b:0x4d482edbd2db742b!2m2!1d108.2845024!2d15.8391815!3e0?hl=vi-VN"
+      "map": "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+Lang+Ch%C3%A2u/@15.8391866,108.2819275,17z/data=!4m6!3m5!1s0x31420ed58ca4c8e9:0x4f27d1dfd57e752a!8m2!3d15.8367376!4d108.2856148!16s%2Fg%2F12vqmcv1k?hl=vi-VN&entry=ttu"
+    }
+  ],
+  "images": [
+    {
+      "id": "2d780379-c80a-436d-af07-688273aaf407",
+      "image": "https://i.ibb.co/522BwMF/L-i-ng-m-c-i.png",
+      "type": "story-letter"
+    },
+    {
+      "id": "f9edb212-11c2-45e9-8407-3188b8df38da",
+      "image": "https://i.ibb.co/7Ch4r9r/PHU05209.jpg",
+      "type": "banner"
+    },
+    {
+      "id": "d3362729-aeed-48d7-a654-770f6474efb5",
+      "image": "https://i.ibb.co/fM38vb1/PHU05730.jpg",
+      "type": "banner"
+    },
+    {
+      "id": "3883c1b7-e723-4b83-b790-8cea4bfb5237",
+      "image": "https://i.ibb.co/ThNd3Cv/PHU05605.jpg",
+      "type": "banner"
+    },
+    {
+      "id": "c11f725f-6491-4e89-885c-720da975e20b",
+      "image": "https://i.ibb.co/K5K9qNN/PHU05651.jpg",
+      "type": "story-image"
+    },
+    {
+      "id": "c61e7ae5-d7f2-4c8b-8a9c-cd9178b52f15",
+      "image": "https://i.ibb.co/WK0WTvr/PHU05018.jpg",
+      "type": "story-image"
+    },
+    {
+      "id": "4a0f6715-e4f8-40c3-b38a-2a4dcec6d57b",
+      "image": "https://i.ibb.co/H4yN94S/PHU05004.jpg",
+      "type": "story-image"
+    },
+    {
+      "id": "318738f1-ca0a-49d3-8456-798b72237b96",
+      "image": "https://i.ibb.co/WBFXMx5/PHU05711.jpg",
+      "type": "image-groom"
+    },
+    {
+      "id": "a310ec9e-510b-4a86-99cf-ceee6a104a57",
+      "image": "https://i.ibb.co/KsNd6dQ/PHU05704.jpg",
+      "type": "image-bride"
+    },
+    {
+      "id": "c4dd20b7-33d0-4aa0-b469-3eb46eb29531",
+      "image": "https://i.ibb.co/s1JNpzX/banner-wedding.png",
+      "type": "banner-sub"
+    },
+    {
+      "id": "42b96049-1340-4f67-9e88-9b98d392010f",
+      "image": "https://i.ibb.co/bR9tLrT/PHU05565.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "e42a8670-ff0e-4229-92bc-7aa06047e78e",
+      "image": "https://i.ibb.co/q9x0T6c/PHU05552.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "7879503c-7f41-49d7-9620-9f40beaec105",
+      "image": "https://i.ibb.co/TgXpjN8/PHU04993.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "ebbfe414-b2c2-4968-a488-c9d66722094e",
+      "image": "https://i.ibb.co/TRwmmfN/PHU04985.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "a14d0e06-7390-4843-b798-9119dddcd780",
+      "image": "https://i.ibb.co/w6tXqRm/PHU04969.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "836a300a-2c13-4b3e-a0e8-386626e9d18e",
+      "image": "https://i.ibb.co/b7p8vpZ/PHU05344.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "561a0656-eed2-4f9e-b177-086aaab2cd4f",
+      "image": "https://i.ibb.co/Tvzdnx8/PHU05309.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "04abb10a-94be-44e4-afd2-6c41aca12d8e",
+      "image": "https://i.ibb.co/P1MqZ4j/PHU05148.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "de16f47c-be49-4d75-8ead-a6e36456dc07",
+      "image": "https://i.ibb.co/G26wxJj/PHU05266.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "4bf109a7-87e8-4ce0-bea3-df6dd52082c9",
+      "image": "https://i.ibb.co/FHjVkRj/PHU05682.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "3d37e557-eaa1-4c6c-bef9-00e5d637b44f",
+      "image": "https://i.ibb.co/hXYm50x/PHU05406.jpg",
+      "type": "image-album"
+    },
+    {
+      "id": "d6b4edf9-ba95-4354-a238-43bacc2eeefb",
+      "image": "https://i.ibb.co/txwq46N/logo-anh-cuoi.png",
+      "type": "logo-album"
+    },
+    {
+      "id": "8fb12033-21d5-469a-ad12-4790393e185c",
+      "image": "https://i.ibb.co/CWvhbcC/logo-wedding.png",
+      "type": "logo-wedding"
     }
   ]
 }
