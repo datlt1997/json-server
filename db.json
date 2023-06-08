@@ -257,6 +257,26 @@
       "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
       "ceremony": "Lễ Thành Hôn",
       "wish": ""
+    },
+    {
+      "id": "14c638e3-fa76-4fa3-90e2-942aa1c78f50",
+      "name": "ky",
+      "name_vn": "Kỳ",
+      "position": "Em",
+      "full_name": "Võ Cao Kỳ",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    }
+  ],
+  "member": [
+    {
+      "id": "c629f029-40f3-4f27-b1a9-fd7e70e858q2",
+      "username": "datlt",
+      "password": "$2y$10$qhJ5kUXjpW08KGq2g9P6l.PCoRZt5ekVwWpHJgx3FMsr5DQ2jQaYq"
     }
   ],
   "address": [
@@ -284,7 +304,7 @@
   "images": [
     {
       "id": "2d780379-c80a-436d-af07-688273aaf407",
-      "image": "https://i.ibb.co/522BwMF/L-i-ng-m-c-i.png",
+      "image": "https://i.ibb.co/Mnhn3st/L-i-ng-m-c-i-1.png",
       "type": "story-letter"
     },
     {
