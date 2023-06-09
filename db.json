@@ -753,6 +753,19 @@
       "wish": ""
     },
     {
+      "id": "f8903420-436c-434d-ad46-c7f820519f54",
+      "name": "luan",
+      "name_vn": "Luận",
+      "position": "Em",
+      "full_name": "Trần Quang Luận",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
       "id": "0b2e9d99-b506-435b-8e45-0f487d8c990d",
       "name": "chinh",
       "name_vn": "Chinh",
