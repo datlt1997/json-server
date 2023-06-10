@@ -779,6 +779,19 @@
       "wish": ""
     },
     {
+      "id": "0b2e9d99-b506-435b-8e45-0f487d8c991d",
+      "name": "tam",
+      "name_vn": "Tâm",
+      "position": "Anh",
+      "full_name": "Quy Tâm",
+      "relationship": false,
+      "status": true,
+      "participate": false,
+      "ceremony_id": "a73831ba-5dc1-4dfb-8f60-c9c5ebfdf866",
+      "ceremony": "Lễ Thành Hôn",
+      "wish": ""
+    },
+    {
       "id": "b94006ae-be0b-4d73-bc77-5da255f57009",
       "name": "huy",
       "name_vn": "Huy",
