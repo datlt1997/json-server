@@ -1,6 +1,17 @@
 {
   "invite": [
     {
+      "id": "683a9r91-9t84-4e29-8489-9b2086d58f23",
+      "name": "trim",
+      "name_vn": "Trim",
+      "position": "Bạn",
+      "full_name": "Thanh Trim",
+      "status": true,
+      "ceremony_id": "c629f029-40f3-4f27-b1a9-fd7e70e858b3",
+      "ceremony": "Lễ Vu Quy",
+      "relationship": false
+    },
+    {
       "id": "683a9r91-9t84-4e29-8480-9b2086d55f23",
       "name": "tuan",
       "name_vn": "Tuấn",
